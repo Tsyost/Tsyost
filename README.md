@@ -1,8 +1,8 @@
-<h1 align="center">Всем привет! 👋 Мы команда программистов</h1>
-<h3 align="center">Занимаемся web-приложениями, скриптами и ботами</h3>
+<h1 align="center">Приветствуем! 👋 Мы начинающая команда веб-разработчиков</h1>
+<h3 align="center">Создаем Fullstack веб-приложения, изучаем современные технологии и набираемся опыта</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27A4F7&center=true&vCenter=true&width=435&lines=Backend+Developer;Python+(FastAPI)%2FGo+Backend;DevOps+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27A4F7&center=true&vCenter=true&width=435&lines=Backend+Developer;Frontend+Developer;Python+(FastAPI)%2FGo+Backend;HTML%2FCSS%2FJS%2FVue.js+Frontend" alt="Typing SVG" />
 </p>
 
 
@@ -10,7 +10,10 @@
 
 ### 👨‍💻 О нас
 
+Мы — начинающая команда из двух энтузиастов, объединившихся для создания полноценных веб-приложений. Наш бэкенд-разработчик работает с Python (FastAPI) и Go, а фронтенд-разработчик создает интерфейсы на HTML, CSS, JavaScript и Vue.js. Вместе мы учимся, экспериментируем и стремимся создавать качественные проекты, совмещая современные технологии и практики разработки.
+
 ---
+
 
 ### 🛠 Технологии и инструменты
 
@@ -19,15 +22,19 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-**Базы данных и DevOps:**
+**Фронтенд:**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
+**Базы данных и инфраструктура:**
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
 ---
-
 ### 🚀 Наши проекты
 
 **1 Friday - Голосовой помощник**  
