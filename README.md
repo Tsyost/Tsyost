@@ -2,7 +2,7 @@
 <h3 align="center">Создаем Fullstack веб-приложения, изучаем современные технологии и набираемся опыта</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27A4F7&center=true&vCenter=true&width=435&lines=Backend+Developer;Frontend+Developer;Python+(FastAPI)%2FGo+Backend;HTML%2FCSS%2FJS%2FVue.js+Frontend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27A4F7&center=true&vCenter=true&width=435&lines=Fullstack+Development;Python+(FastAPI)%2FGo+Backend;HTML%2FCSS%2FJS%2FVue.js+Frontend" alt="Typing SVG" />
 </p>
 
 
